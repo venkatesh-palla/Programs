@@ -10,7 +10,7 @@ public class DuplicatesCharactersInString {
 		
 		String str = scan.nextLine();
 		
-		int[] charCount = new int[256]; // Assuming ASCII characters
+		int charCount[]  = new int[256]; // Assuming ASCII characters
 		
 		for(int i=0;i<str.length();i++)
 		{

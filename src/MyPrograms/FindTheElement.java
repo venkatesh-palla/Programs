@@ -18,6 +18,7 @@ public class FindTheElement {
 		{
 			if(a[i] == num)
 			{
+				System.out.println("YES PRESENT");
 				count++;
 			}
 		}

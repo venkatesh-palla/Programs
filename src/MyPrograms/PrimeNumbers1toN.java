@@ -12,7 +12,7 @@ public class PrimeNumbers1toN {
 		
 		int i,j;
 		
-		for(i=1;i<=num;i++)
+		for(i=20;i<=num;i++)
 		{
 			int count = 0;
 			for(j=1;j<=num;j++)
